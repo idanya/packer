@@ -10,9 +10,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/hashicorp/packer/helper/enumflag"
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/template"
+	"github.com/idanya/packer/helper/enumflag"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/template"
 )
 
 type BuildCommand struct {

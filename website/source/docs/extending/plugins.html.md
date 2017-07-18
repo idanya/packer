@@ -115,7 +115,7 @@ dependencies.
 -   `github.com/hashicorp/packer` - Contains all the interfaces that you have to
     implement for any given plugin.
 
--   `github.com/hashicorp/packer/packer/plugin` - Contains the code to serve
+-   `github.com/idanya/packer/packer/plugin` - Contains the code to serve
     the plugin. This handles all the inter-process communication stuff.
 
 There are two steps involved in creating a plugin:
@@ -131,7 +131,7 @@ implements the `packer.Builder` interface:
 
 ``` go
 import (
-  "github.com/hashicorp/packer/packer/plugin"
+  "github.com/idanya/packer/packer/plugin"
 )
 
 // Assume this implements packer.Builder

@@ -3,7 +3,7 @@ package cloudstack
 import (
 	"testing"
 
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 	"github.com/xanzy/go-cloudstack/cloudstack"
 )
 

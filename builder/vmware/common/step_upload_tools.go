@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/template/interpolate"
 	"github.com/mitchellh/multistep"
 )
 

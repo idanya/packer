@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/hashicorp/packer/template"
+	"github.com/idanya/packer/template"
 )
 
 type InspectCommand struct {

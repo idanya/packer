@@ -9,7 +9,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/ec2metadata"
 	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/template/interpolate"
 )
 
 // AccessConfig is for common configuration related to AWS access

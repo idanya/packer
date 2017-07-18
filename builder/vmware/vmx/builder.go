@@ -6,10 +6,10 @@ import (
 	"log"
 	"time"
 
-	vmwcommon "github.com/hashicorp/packer/builder/vmware/common"
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/helper/communicator"
-	"github.com/hashicorp/packer/packer"
+	vmwcommon "github.com/idanya/packer/builder/vmware/common"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/helper/communicator"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 )
 

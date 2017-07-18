@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 	"github.com/klauspost/pgzip"
 )
 

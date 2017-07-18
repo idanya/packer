@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/hashicorp/packer/helper/flag-kv"
-	"github.com/hashicorp/packer/helper/flag-slice"
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/template"
+	"github.com/idanya/packer/helper/flag-kv"
+	"github.com/idanya/packer/helper/flag-slice"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/template"
 )
 
 // FlagSetFlags is an enum to define what flags are present in the

@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 )
 
 // BuilderId for the local artifacts

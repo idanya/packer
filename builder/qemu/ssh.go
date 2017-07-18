@@ -1,8 +1,8 @@
 package qemu
 
 import (
-	commonssh "github.com/hashicorp/packer/common/ssh"
-	"github.com/hashicorp/packer/communicator/ssh"
+	commonssh "github.com/idanya/packer/common/ssh"
+	"github.com/idanya/packer/communicator/ssh"
 	"github.com/mitchellh/multistep"
 	gossh "golang.org/x/crypto/ssh"
 )

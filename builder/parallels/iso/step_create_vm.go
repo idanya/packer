@@ -3,8 +3,8 @@ package iso
 import (
 	"fmt"
 
-	parallelscommon "github.com/hashicorp/packer/builder/parallels/common"
-	"github.com/hashicorp/packer/packer"
+	parallelscommon "github.com/idanya/packer/builder/parallels/common"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 )
 

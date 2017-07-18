@@ -3,7 +3,7 @@ package shell
 import (
 	"testing"
 
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 )
 
 func TestProvisioner_impl(t *testing.T) {

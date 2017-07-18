@@ -3,8 +3,8 @@ package common
 import (
 	"fmt"
 
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/template/interpolate"
 )
 
 type OutputConfig struct {

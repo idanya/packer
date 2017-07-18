@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	vmwcommon "github.com/hashicorp/packer/builder/vmware/common"
-	"github.com/hashicorp/packer/packer"
+	vmwcommon "github.com/idanya/packer/builder/vmware/common"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 )
 

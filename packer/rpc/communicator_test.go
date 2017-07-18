@@ -2,7 +2,7 @@ package rpc
 
 import (
 	"bufio"
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 	"io"
 	"reflect"
 	"testing"

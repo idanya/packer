@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 )
 

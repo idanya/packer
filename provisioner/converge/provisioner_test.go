@@ -3,7 +3,7 @@ package converge
 import (
 	"testing"
 
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 )
 
 func testConfig() map[string]interface{} {

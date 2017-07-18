@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/hashicorp/packer/communicator/none"
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/communicator/none"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 	gossh "golang.org/x/crypto/ssh"
 )

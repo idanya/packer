@@ -22,13 +22,13 @@ import (
 	"github.com/Azure/go-autorest/autorest/to"
 	"github.com/masterzen/winrm"
 
-	"github.com/hashicorp/packer/builder/azure/common/constants"
-	"github.com/hashicorp/packer/builder/azure/pkcs12"
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/helper/communicator"
-	"github.com/hashicorp/packer/helper/config"
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/builder/azure/common/constants"
+	"github.com/idanya/packer/builder/azure/pkcs12"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/helper/communicator"
+	"github.com/idanya/packer/helper/config"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/template/interpolate"
 
 	"golang.org/x/crypto/ssh"
 )

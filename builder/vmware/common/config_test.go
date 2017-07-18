@@ -3,7 +3,7 @@ package common
 import (
 	"testing"
 
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/template/interpolate"
 )
 
 func testConfigTemplate(t *testing.T) *interpolate.Context {

@@ -3,7 +3,7 @@ package none
 import (
 	"testing"
 
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 )
 
 func TestCommIsCommunicator(t *testing.T) {

@@ -3,7 +3,7 @@ package common
 import (
 	"testing"
 
-	"github.com/hashicorp/packer/common"
+	"github.com/idanya/packer/common"
 )
 
 func TestOutputConfigPrepare(t *testing.T) {

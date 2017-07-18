@@ -214,5 +214,5 @@ Here is a basic example for Alicloud.
 ```
 
 See the
-[examples/alicloud](https://github.com/hashicorp/packer/tree/master/examples/alicloud)
+[examples/alicloud](https://github.com/idanya/packer/tree/master/examples/alicloud)
 folder in the packer project for more examples.

@@ -10,7 +10,7 @@ package plugin
 import (
 	"errors"
 	"fmt"
-	packrpc "github.com/hashicorp/packer/packer/rpc"
+	packrpc "github.com/idanya/packer/packer/rpc"
 	"io/ioutil"
 	"log"
 	"math/rand"

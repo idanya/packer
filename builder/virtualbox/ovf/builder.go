@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"log"
 
-	vboxcommon "github.com/hashicorp/packer/builder/virtualbox/common"
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/helper/communicator"
-	"github.com/hashicorp/packer/packer"
+	vboxcommon "github.com/idanya/packer/builder/virtualbox/common"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/helper/communicator"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 )
 

@@ -5,8 +5,8 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws/awserr"
 	"github.com/aws/aws-sdk-go/service/ec2"
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 )
 

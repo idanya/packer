@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/template"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/template"
 )
 
 // TestEnvVar must be set to a non-empty value for acceptance tests to run.

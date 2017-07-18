@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/aws/aws-sdk-go/service/ec2"
-	awscommon "github.com/hashicorp/packer/builder/amazon/common"
-	"github.com/hashicorp/packer/packer"
+	awscommon "github.com/idanya/packer/builder/amazon/common"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 )
 

@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 	"reflect"
 	"testing"
 )

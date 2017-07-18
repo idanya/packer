@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/packer/builder/azure/common/constants"
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/builder/azure/common/constants"
+	"github.com/idanya/packer/packer"
 )
 
 // List of configuration parameters that are required by the ARM builder.

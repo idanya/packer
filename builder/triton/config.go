@@ -1,9 +1,9 @@
 package triton
 
 import (
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/helper/communicator"
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/helper/communicator"
+	"github.com/idanya/packer/template/interpolate"
 )
 
 type Config struct {

@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hashicorp/packer/common/powershell"
-	"github.com/hashicorp/packer/common/powershell/hyperv"
+	"github.com/idanya/packer/common/powershell"
+	"github.com/idanya/packer/common/powershell/hyperv"
 )
 
 type HypervPS4Driver struct {

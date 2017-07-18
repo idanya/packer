@@ -10,11 +10,11 @@ import (
 	"github.com/aws/aws-sdk-go/service/ec2"
 	"github.com/aws/aws-sdk-go/service/s3"
 	"github.com/aws/aws-sdk-go/service/s3/s3manager"
-	awscommon "github.com/hashicorp/packer/builder/amazon/common"
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/helper/config"
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/template/interpolate"
+	awscommon "github.com/idanya/packer/builder/amazon/common"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/helper/config"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/template/interpolate"
 )
 
 const BuilderId = "packer.post-processor.amazon-import"

@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/template/interpolate"
 	"github.com/masterzen/winrm"
 )
 

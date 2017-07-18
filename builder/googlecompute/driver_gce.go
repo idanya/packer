@@ -17,9 +17,9 @@ import (
 
 	"google.golang.org/api/compute/v0.beta"
 
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/version"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/version"
 
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"

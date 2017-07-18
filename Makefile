@@ -11,7 +11,7 @@ GOARCH=$(shell go env GOARCH)
 # Get the git commit
 GIT_DIRTY=$(shell test -n "`git status --porcelain`" && echo "+CHANGES" || true)
 GIT_COMMIT=$(shell git rev-parse --short HEAD)
-GIT_IMPORT=github.com/hashicorp/packer/version
+GIT_IMPORT=github.com/idanya/packer/version
 GOLDFLAGS=-X $(GIT_IMPORT).GitCommit=$(GIT_COMMIT)$(GIT_DIRTY)
 
 export GOLDFLAGS

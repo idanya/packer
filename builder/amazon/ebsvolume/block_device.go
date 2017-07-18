@@ -1,8 +1,8 @@
 package ebsvolume
 
 import (
-	awscommon "github.com/hashicorp/packer/builder/amazon/common"
-	"github.com/hashicorp/packer/template/interpolate"
+	awscommon "github.com/idanya/packer/builder/amazon/common"
+	"github.com/idanya/packer/template/interpolate"
 )
 
 type BlockDevice struct {

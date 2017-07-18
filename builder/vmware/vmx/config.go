@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"os"
 
-	vmwcommon "github.com/hashicorp/packer/builder/vmware/common"
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/helper/config"
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/template/interpolate"
+	vmwcommon "github.com/idanya/packer/builder/vmware/common"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/helper/config"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/template/interpolate"
 )
 
 // Config is the configuration structure for the builder.

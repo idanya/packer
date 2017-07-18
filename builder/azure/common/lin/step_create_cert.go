@@ -15,9 +15,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/hashicorp/packer/builder/azure/common/constants"
+	"github.com/idanya/packer/builder/azure/common/constants"
 
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 )
 

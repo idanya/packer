@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	vmwcommon "github.com/hashicorp/packer/builder/vmware/common"
+	vmwcommon "github.com/idanya/packer/builder/vmware/common"
 	"github.com/mitchellh/multistep"
 )
 

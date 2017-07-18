@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/hashicorp/packer/common"
+	"github.com/idanya/packer/common"
 	"io/ioutil"
 	"os"
 	"testing"

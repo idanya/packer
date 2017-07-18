@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/gophercloud/gophercloud/openstack/imageservice/v2/members"
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 )
 

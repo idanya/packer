@@ -8,7 +8,7 @@ import (
 	"net"
 	"os"
 
-	packerssh "github.com/hashicorp/packer/communicator/ssh"
+	packerssh "github.com/idanya/packer/communicator/ssh"
 	"github.com/mitchellh/multistep"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"

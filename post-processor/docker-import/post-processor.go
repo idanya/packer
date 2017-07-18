@@ -3,12 +3,12 @@ package dockerimport
 import (
 	"fmt"
 
-	"github.com/hashicorp/packer/builder/docker"
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/helper/config"
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/post-processor/artifice"
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/builder/docker"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/helper/config"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/post-processor/artifice"
+	"github.com/idanya/packer/template/interpolate"
 )
 
 const BuilderId = "packer.post-processor.docker-import"

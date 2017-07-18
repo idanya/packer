@@ -3,7 +3,7 @@ package triton
 import (
 	"fmt"
 
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/template/interpolate"
 )
 
 // TargetImageConfig represents the configuration for the image to be created

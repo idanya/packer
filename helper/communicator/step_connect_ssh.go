@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	commonssh "github.com/hashicorp/packer/common/ssh"
-	"github.com/hashicorp/packer/communicator/ssh"
-	"github.com/hashicorp/packer/packer"
+	commonssh "github.com/idanya/packer/common/ssh"
+	"github.com/idanya/packer/communicator/ssh"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 	gossh "golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"

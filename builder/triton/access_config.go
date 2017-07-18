@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/hashicorp/packer/helper/communicator"
-	"github.com/hashicorp/packer/template/interpolate"
+	"github.com/idanya/packer/helper/communicator"
+	"github.com/idanya/packer/template/interpolate"
 	"github.com/joyent/triton-go"
 	"github.com/joyent/triton-go/authentication"
 )

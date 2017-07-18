@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	vmwcommon "github.com/hashicorp/packer/builder/vmware/common"
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/template/interpolate"
+	vmwcommon "github.com/idanya/packer/builder/vmware/common"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/template/interpolate"
 	"github.com/mitchellh/multistep"
 )
 

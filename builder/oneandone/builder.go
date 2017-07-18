@@ -3,9 +3,9 @@ package oneandone
 import (
 	"errors"
 	"fmt"
-	"github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/helper/communicator"
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/common"
+	"github.com/idanya/packer/helper/communicator"
+	"github.com/idanya/packer/packer"
 	"github.com/mitchellh/multistep"
 	"log"
 )

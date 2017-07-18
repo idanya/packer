@@ -7,9 +7,9 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/ec2"
-	"github.com/hashicorp/packer/builder/amazon/common"
-	builderT "github.com/hashicorp/packer/helper/builder/testing"
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/builder/amazon/common"
+	builderT "github.com/idanya/packer/helper/builder/testing"
+	"github.com/idanya/packer/packer"
 )
 
 func TestBuilderAcc_basic(t *testing.T) {

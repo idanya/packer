@@ -6,7 +6,7 @@ package arm
 import (
 	"testing"
 
-	"github.com/hashicorp/packer/builder/azure/common/constants"
+	"github.com/idanya/packer/builder/azure/common/constants"
 	"github.com/mitchellh/multistep"
 )
 

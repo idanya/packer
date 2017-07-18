@@ -2,7 +2,7 @@ package profitbricks
 
 import (
 	"fmt"
-	"github.com/hashicorp/packer/packer"
+	"github.com/idanya/packer/packer"
 	"testing"
 )
 

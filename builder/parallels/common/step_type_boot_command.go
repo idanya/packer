@@ -8,9 +8,9 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	packer_common "github.com/hashicorp/packer/common"
-	"github.com/hashicorp/packer/packer"
-	"github.com/hashicorp/packer/template/interpolate"
+	packer_common "github.com/idanya/packer/common"
+	"github.com/idanya/packer/packer"
+	"github.com/idanya/packer/template/interpolate"
 	"github.com/mitchellh/multistep"
 )
 
